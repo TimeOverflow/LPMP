@@ -46,7 +46,7 @@
 	url = https://github.com/Tessil/robin-map.git
 [submodule "external/cpp-taskflow"]
 	path = external/cpp-taskflow
-	url = https://github.com/cpp-taskflow/cpp-taskflow.git
+	url = https://github.com/taskflow/taskflow.git
 [submodule "external/pybind11"]
 	path = external/pybind11
 	url = https://github.com/pybind/pybind11.git
